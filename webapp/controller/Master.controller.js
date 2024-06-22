@@ -7,6 +7,8 @@ function (Controller) {
     return Controller.extend("com.ibspl.gittest.controller.Master", {
         onInit: function () {
             //local_git_test
+
+            //lets test merging from git
         }
     });
 });
